@@ -51,7 +51,7 @@ El archivo **enrolamiento-paciente.properties** se encuentra en **docs/recursos/
     - **spring.primarydatasource.password:** Establecer contraseña de usuario de la base de datos.
 
 
-### Cómo se usa
+### Cómo se usa (Incluir todos los métodos)
 ----
 #### Obtener enrolamiento del paciente
 
