@@ -1,4 +1,4 @@
-Here is a simple flow chart:
+Ejemplo de diagrama de secuencia hecho con mermaid en el readme.md:
 
 ```mermaid
 sequenceDiagram
